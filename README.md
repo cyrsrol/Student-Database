@@ -1,3 +1,3 @@
 Student Database
--Using class
--Using Nodes
+Cyrus R. Rol
+CS-1303
